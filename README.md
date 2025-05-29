@@ -16,11 +16,11 @@ dbdiagram.io – ERD şema tasarımı için
 
 📂 Dosya Açıklamaları
 
-createTable.sqlTüm tablo ve ilişkileri oluşturan SQL komutları.
+createTable.sql  Tüm tablo ve ilişkileri oluşturan SQL komutları.
 
-sample data.sqlProje tablolarına örnek veri ekleyen SQL komutları.
+sample data.sql  Proje tablolarına örnek veri ekleyen SQL komutları.
 
-Şema_Görüntüsü.pngVeritabanı ERD diyagramı – tüm tablolar ve ilişkiler grafik olarak gösterilmiştir.
+Şema_Görüntüsü.png  Veritabanı ERD diyagramı – tüm tablolar ve ilişkiler grafik olarak gösterilmiştir.
 
 ⚙️ Kurulum ve Kullanım
 
